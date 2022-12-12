@@ -1,0 +1,54 @@
+.container { 
+    padding: 100px; 
+    width: 50%;
+    height: 50%;
+    padding: 100px;
+    position:fixed;
+    margin-top: 94px;
+    right: 16%;
+    background-color:rgba(249, 245, 245, 0.7);
+    border: none;
+    }
+  body{
+  background-image: url("E:\reactor\myproject\public\bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0%;
+  background-attachment: fixed;
+  overflow: hidden;
+  }
+  ::placeholder
+  {
+    font-family:kadwa ;
+    color: rgb(46, 44, 44);
+    opacity: 0.5;
+    font-size: "1";
+  }
+
+ .mail{
+  position: absolute;
+  bottom: 50px;
+  right: 00px;
+  left: 10px;
+  font-size: -12px;
+  color: aliceblue;
+  font-style: italic;
+ }
+ .guide{
+  position: absolute;
+  bottom: 550px;
+  right: 00px;
+  left: 10px;
+  font-size: 10px;
+  color: rgb(204, 227, 242);
+  
+ }
+ .ok{
+  position: absolute;
+  bottom: -1px;
+  right: 00px;
+  left: 10px;
+  font-size: 10px;
+  color: rgb(0, 3, 4);
+  font-style: italic;
+ }

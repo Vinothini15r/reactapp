@@ -1,0 +1,166 @@
+button { 
+    background-color: rgb(8, 71, 84, 1); 
+    color:rgb(198, 193, 193);
+    border-radius: 70px;
+    border: none;
+    font-size: 400%;
+    position: center;
+    bottom: 100%;
+    width: 125px;
+    height: 55px;
+    }
+    input[type=text], input[type=password] { 
+      width: 90%; 
+      margin: 50px 0;
+      padding: 10px 30px; 
+      background-color: rgb(242, 244, 245);
+      align-items: center; 
+      box-sizing: border-box;
+      border: none;
+      position: center;
+      font-size: 600%;
+      left: 20px;
+    }
+    button:hover { 
+        opacity: 0.5; 
+    }  
+    body{
+    background-image: url("E:\reactor\myproject\public\bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0%;
+    background-attachment: fixed;
+    overflow: hidden;
+    }
+    ::placeholder
+    {
+      font-family:kadwa ;
+      color: rgb(46, 44, 44);
+      opacity: 0.5;
+      font-size: "10";
+    }
+    .top {
+      position: absolute;
+      top: 30px;
+      right: 400px;
+      font-size: 50px;
+      font-style: normal;
+      text-align: center;
+    }
+    .pass1{
+      position: absolute;
+      bottom:220px;
+      right: 634px;
+      font-size: 24px;
+      font-style: bold;
+    }
+   .bottom{
+  position:absolute;
+  top:300px;
+  left: 10px;
+    bottom: 200px;
+    right: 240px;
+    font-size: 4px;
+    color: aliceblue;
+   }
+   .login{
+    position: absolute;
+      bottom: -70px;
+      left: 350px;
+      font-size: 30px;
+      font-style:oblique;
+   }
+   .account{
+    position: absolute;
+      bottom: 550px;
+      left: 250px;
+      right: 150px;
+      font-size: 30px;
+      font-style: bold;
+      color: #e4dddd;
+   }
+   .user{
+    position: absolute;
+    font: Inter;
+    bottom: 365px;
+    right: 185px;
+    font-size: 2px;
+    color:aliceblue;
+    width: 37%;
+   }
+   .mail{
+    position: absolute;
+    bottom: 420px;
+    right: 290px;
+    left: 10px;
+    font-size: 4px;
+    color: aliceblue;
+   }
+   .name{
+    position: absolute;
+    bottom: 485px;
+    right: 140px;
+    left: 10px;
+    font-size: 4px;
+    color: aliceblue;
+   }
+   .pass{
+    position: absolute;
+    font: Inter;
+    bottom: 295px;
+    right: 185px;
+    font-size: 2px;
+    color:aliceblue;
+    width: 37%;
+   }
+   .word{
+    position: absolute;
+    bottom: 350px;
+    right: 310px;
+    left: 160px;
+    font-size: 4px;
+   }
+   .container { 
+    position: absolute;
+  font: Inter;
+  bottom: 432px;
+  right: 185px;
+  font-size: 2px;
+  width: 37%;
+  color:aliceblue;
+    }
+   .container1 { 
+    position: absolute;
+  font: Inter;
+  bottom: 220px;
+  right: 185px;
+  font-size: 2px;
+  width:37%;
+  color:aliceblue;
+    }
+    .container2 { 
+      position: absolute;
+    bottom: 120px;
+    right: 90px;
+    font-size:7px;
+    width: 45%;
+    color:aliceblue;
+      }
+      .container3 { 
+        position: absolute;
+      bottom: 55px;
+      right: 40px;
+      font-size: 8px;
+      width: 1%;
+      color:aliceblue;
+      width: 30%; 
+      margin: 10px 0;
+      font-size: 5px;
+      padding: 8px 11px; 
+      background-color: rgb(242, 244, 245);
+      align-items: center; 
+      box-sizing: border-box;
+      border: none;
+      position: center;
+      left: 550px;
+        }

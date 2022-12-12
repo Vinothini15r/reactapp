@@ -1,0 +1,96 @@
+.container { 
+    padding: 100px; 
+    width: 60%;
+    height:-10px;
+    padding: 40px;
+    position:fixed;
+    margin-top: 150px;
+    right: 16%;
+    background-color:rgba(249, 245, 245, 0.7);
+    border: none;
+    }
+    
+    .box{ 
+        padding: 100px; 
+    width: 60%;
+    height:-10px;
+    padding: 40px;
+    position:fixed;
+    top: 250px;
+    right: 16%;
+    background-color:rgba(249, 245, 245, 0.7);
+    border: none;
+        }
+        .bottom{ 
+            padding: 100px; 
+        width: 60%;
+        height:-10px;
+        padding: 40px;
+        position:fixed;
+        top: 400px;
+        right: 16%;
+        background-color:rgba(249, 245, 245, 0.7);
+        border: none;
+            }
+       
+  body{
+  background-image: url("E:\reactor\myproject\public\bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0%;
+  background-attachment: fixed;
+  overflow: hidden;
+  }
+  ::placeholder
+  {
+    font-family:kadwa ;
+    color: rgb(46, 44, 44);
+    opacity: 0.5;
+    font-size: "1";
+  }
+
+ .apple{
+  position: absolute;
+  bottom: 25px;
+  right: 00px;
+  left: 10px;
+  font-size: -12px;
+  color: aliceblue;
+  font-style: italic;
+ }
+ .hp{
+        position: absolute;
+        bottom: 25px;
+        right: 00px;
+        left: 10px;
+        font-size: -12px;
+        color: aliceblue;
+        font-style: italic;
+ }
+ .tablet{
+    position: absolute;
+    bottom: 10px;
+    right: 00px;
+    left: 10px;
+    font-size: -12px;
+    color: aliceblue;
+    font-style: italic;
+ }
+ .news{
+  position: absolute;
+  bottom: 550px;
+  right: 20px;
+  left: 5px;
+  font-size: 10px;
+  color: rgb(204, 227, 242);
+  
+ }
+ .ok{
+  position: absolute;
+  bottom: 10px;
+  right: 150px;
+  left: 150px;
+  font-size: 10px;
+  color: rgb(0, 3, 4);
+  font-style: italic;
+ }

@@ -1,0 +1,130 @@
+button { 
+    background-color: rgb(8, 71, 84, 1); 
+    color:rgb(198, 193, 193);
+    border-radius: 70px;
+    border: none;
+    font-size: 400%;
+    position: center;
+    bottom: 100%;
+    width: 125px;
+    height: 55px;
+    }
+    input[type=text], input[type=password] { 
+      width: 90%; 
+      margin: 50px 0;
+      padding: 10px 30px; 
+      background-color: rgb(242, 244, 245);
+      align-items: center; 
+      box-sizing: border-box;
+      border: none;
+      position: center;
+      font-size: 600%;
+      left: 20px;
+    }
+    button:hover { 
+        opacity: 0.5; 
+    }  
+    .container { 
+      padding: 100px; 
+      width: 50%;
+      height: 43%;
+      padding: 100px;
+      position:fixed;
+      margin-top: 80px;
+      right: 17%;
+      background-color:rgba(217, 217, 217, 0.7);
+      border-radius: 50px;
+      border: none;
+      }
+    body{
+    background-image: url("E:\reactor\myproject\public\bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0%;
+    background-attachment: fixed;
+    overflow: hidden;
+    }
+    ::placeholder
+    {
+      font-family:kadwa ;
+      color: rgb(46, 44, 44);
+      opacity: 0.5;
+      font-size: "10";
+    }
+    .top {
+      position: absolute;
+      top: 30px;
+      right: 400px;
+      font-size: 50px;
+      font-style: normal;
+      text-align: center;
+    }
+    .bottom {
+      position: absolute;
+      bottom: 98px;
+      right: 100px;
+      font-size: 30px;
+      font-style: bold;
+    }
+   .img{
+    position: absolute;
+  left: 764px;
+  top: 143px;
+  width: 45px;
+  height: 45px;
+   }
+   .logo{
+  position:absolute;
+  top: 5px;
+  left: 540px;
+  width:120px;
+  height:120px
+   }
+   .login{
+    position: absolute;
+      bottom: -70px;
+      left: 350px;
+      font-size: 30px;
+      font-style:oblique;
+   }
+   .account{
+    position: absolute;
+      bottom: 100px;
+      left: 250px;
+      font-size: 30px;
+      font-style: bold;
+      color: #e4dddd;
+   }
+   .user{
+    position: absolute;
+    bottom: 250px;
+    right: 350px;
+    left: 500px;
+    font-size: 4px;
+    font: Inter;
+    color: aliceblue;
+   }
+   .mail{
+    position: absolute;
+    bottom: 400px;
+    right: 300px;
+    left: 80px;
+    font-size: 4px;
+    color: aliceblue;
+   }
+   .pass{
+    position: absolute;
+    font: Inter;
+    bottom: 120px;
+    right: 350px;
+    left: 500px;
+    font-size: 4px;
+    color:aliceblue;
+   }
+   .word{
+    position: absolute;
+    bottom: 250px;
+    right: 300px;
+    left: 80px;
+    font-size: 4px;
+   }
